@@ -1,0 +1,4 @@
+Bundle-Description: Override default ScopeDescriptors and ApplicationDescriptors
+Bundle-SymbolicName: com.example.oauth2.provider.scope
+Bundle-Version: 1.0.0
+-sources: true
